@@ -32,14 +32,14 @@ input {
   border: 1px solid rgb(95, 93, 93);
 }
 #calculateAge {
-  margin-left: 485px;
+  margin-left: 495px;
   background-color: rgb(247, 173, 82);
   border-radius: 5px;
   border: 1px solid rgb(247, 173, 82);
   padding: 5px;
 }
 #reset {
-  margin-left: 20px;
+  margin-left: 35px;
   background-color: rgb(247, 173, 82);
   margin-top: 20px;
   border-radius: 5px;
@@ -54,14 +54,14 @@ input {
   background-color: rgb(83, 83, 82);
 }
 p {
-  padding-left: 485px;
+  padding-left: 510px;
   margin-top: 20px;
 }
 i {
   margin-left: 10px;
 }
 .iconDiv {
-  padding-left: 500px;
-  margin-top: 40px;
+  padding-left: 520px;
+  margin-top: 30px;
   padding-bottom: 10px;
 }
