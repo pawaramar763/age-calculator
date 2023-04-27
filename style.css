@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: "Itim", cursive;
+}
+body {
+  background-color: #ebf9f9;
+}
+.container {
+  width: 1200px;
+  background-color: #0e2f2f;
+  border-radius: 10px;
+  margin-left: 150px;
+  margin-top: 230px;
+}
+h2 {
+  color: orange;
+  padding-left: 510px;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+label {
+  padding-left: 480px;
+}
+input {
+  margin-left: 20px;
+  background-color: rgb(95, 93, 93);
+  border-radius: 5px;
+  border: 1px solid rgb(95, 93, 93);
+}
+#calculateAge {
+  margin-left: 485px;
+  background-color: rgb(247, 173, 82);
+  border-radius: 5px;
+  border: 1px solid rgb(247, 173, 82);
+  padding: 5px;
+}
+#reset {
+  margin-left: 20px;
+  background-color: rgb(247, 173, 82);
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 1px solid rgb(247, 173, 82);
+  padding: 5px;
+}
+
+#calculateAge:hover {
+  background-color: rgb(83, 83, 82);
+}
+#reset:hover {
+  background-color: rgb(83, 83, 82);
+}
+p {
+  padding-left: 485px;
+  margin-top: 20px;
+}
+i {
+  margin-left: 10px;
+}
+.iconDiv {
+  padding-left: 500px;
+  margin-top: 40px;
+  padding-bottom: 10px;
+}
